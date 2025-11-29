@@ -18,11 +18,11 @@ This project was focused on diagnosing and proposing actionable improvements to 
 - Prepare for the integration of a new tram line (Route 3 extension)
 
 #### Methodology and Key Stages:
-1. Field Data Collection (Oct–Dec 2024):
+1. Field Data Collection (Dec 2024–Mar 2025):
 - Manual counts (80+ hours) of pedestrian flows (9 exits) and vehicle movements (16 traffic movements)
 - Infrastructure measurements (e.g., stair/elevator dimensions, signal phases)
 - Transit timetable analysis across metro, bus, and tram services
-2. Microsimulation Modelling (Jan–Apr 2025):
+2. Microsimulation Modelling (Mar–May 2025):
 - Built a 4-level multimodal model in PTV Vissim 2022, including underground pedestrian systems, vehicle traffic, and public transport
 - Simulated 14 future scenarios covering tram operations, bus layovers, and pedestrian accessibility
 - Generated origin-destination (OD) matrices from real-world data
